@@ -1,0 +1,4 @@
+ipython==8.3.0
+jupyter==1.0.0
+Cython==0.29.28
+jupyterlab==3.4.0
